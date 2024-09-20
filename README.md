@@ -58,7 +58,7 @@ git switch -c add-eda-yavuz
 Now open `Contributors.md` file in a text editor, add your name to it.
 
 ```bash
-open contributors.md
+vim contributors.md
 ```
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
