@@ -7,4 +7,4 @@
 - [Daniel Vangelov](https://github.com/kokoKeremidata) **make ACS great again
 - [Teodor Ivanov](https://github.com/RedPlum420) **make ACS great again**
 - [Izabella Traykova](https://github.com/izabellatraykova) **make ACS great again**
-
+  [Samuil Petrov](https://github.com/1lkata) **make ACS great again**
